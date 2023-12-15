@@ -1,6 +1,7 @@
 # brk-math-garden
 
 Welcome to the Handwritten Digits Recognition Game! This project combines a handwritten digits recognition model with a fun and interactive game where users can enjoy practicing math operations and see flowers bloom in a virtual garden.
+
 The handwritten digits recognition model was trained using **TensorFlow** and achieved an **accuracy** of 97.81%.
 
 ## How to Play
