@@ -10,6 +10,8 @@ The handwritten digits recognition model was trained using **TensorFlow** and ac
 - Correct answers make flowers bloom in the garden.
 - Incorrect answers result in the removal of flowers from the garden.
 
+![game](garden.png)
+
 ## Customization
 
 Feel free to customize the game by modifying the code. You can add new features, or update the UI.
